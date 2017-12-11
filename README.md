@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ActionCable Samle from [Rails 5 + ActionCableで作る！シンプルなチャットアプリ（DHH氏のデモ動画より）](https://qiita.com/jnchito/items/aec75fab42804287d71b)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby 2.4.2
